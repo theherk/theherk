@@ -1,6 +1,6 @@
-![theherk stats](https://github-readme-stats-app-khaki.vercel.app/api?username=theherk&show_icons=true&include_all_commits=true&count_private=true&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)
+![theherk stats](https://github-readme-stats-avojlpepg-theherk.vercel.app/api?username=theherk&show_icons=true&include_all_commits=true&count_private=true&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)
 
-[![languages](https://github-readme-stats-app-khaki.vercel.app/api/top-langs/?username=theherk&layout=compact&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)](https://github.com/theherk/github-readme-stats)
+[![languages](https://github-readme-stats-avojlpepg-theherk.vercel.app/api/top-langs/?username=theherk&layout=compact&title_color=4fb4d8&icon_color=ef7c2a&text_color=848794&bg_color=1c1d21)](https://github.com/theherk/github-readme-stats)
 
 ---
 
