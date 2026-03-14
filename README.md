@@ -1,7 +1,22 @@
-[![theherk stats](https://awesome-github-stats.azurewebsites.net/user-stats/theherk?cardType=level&theme=tokyonight&preferLogin=true&Border=AD8EE6)](https://git.io/awesome-stats-card)
+### 👋 Hi, I'm Herk
 
----
+I aim for simplicity: simple speech, simple code, simple life.
 
-<a href="https://stackexchange.com/users/2379504"><img src="https://stackexchange.com/users/flair/2379504.png?theme=dark" width="208" height="58" alt="profile for theherk on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for theherk on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+#### 🧰 Languages I Reach For
 
-![GitHub followers](https://img.shields.io/github/followers/theherk?logo=GitHub&logoColor=ef7c2a)
+Rust, Go, Gleam, Python
+
+#### ❤️ Tools I Love
+
+Neovim, Wezterm, Fish, jujutsu, OpenTofu, Victor Mono
+
+#### 🔨 Projects
+
+| Project                                                                                                     | What it does                             |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [figgypy](https://github.com/theherk/figgypy)                                                               | Configuration parser for Python          |
+| [commons](https://github.com/theherk/commons)                                                               | My system configuration                  |
+| [NeovideProject](https://github.com/theherk/NeovideProject)                                                 | macOS app for per-repo Neovide instances |
+| [interloper](https://github.com/theherk/interloper)                                                         | ECS execute-command via Lambda           |
+| [terraform-aws-apigateway-proxy](https://github.com/theherk/terraform-aws-apigateway-proxy)                 | API Gateway that proxies requests        |
+| [terraform-aws-apigateway-route-builder](https://github.com/theherk/terraform-aws-apigateway-route-builder) | Convert routes to structured resources   |
