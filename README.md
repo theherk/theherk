@@ -8,7 +8,7 @@ Rust, Go, Gleam, Python
 
 #### ❤️ Tools I Love
 
-Neovim, Wezterm, Fish, jujutsu, OpenTofu, Victor Mono
+Neovim, Wezterm, Fish, Jujutsu, OpenTofu, Victor Mono
 
 #### 🔨 Projects
 
